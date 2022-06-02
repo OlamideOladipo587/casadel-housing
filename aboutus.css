@@ -1,0 +1,137 @@
+body{
+  margin: 0;
+}
+.backgroundimage
+{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(house10.jpg);
+    width:100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.header
+{
+    background-color: #29293d;
+    height: 70px;
+    padding-top: 1.5%;
+    color: darkorange;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+.navv{
+  text-align: center;
+  padding: 5%;
+}
+.add{
+  color: darkorange;
+}
+.index1
+{
+    color: darkorange;
+    text-decoration: none;
+    font-size: 25px;
+    font-family:serif;
+    padding-right: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    font-family:helvetica;
+
+}
+.index2{
+  border: 2px solid darkorange;
+}
+.index1:hover
+{
+    color: darkorange;
+    padding: 10px;
+    background-color:#29293d;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.about-us
+{
+    font-family:fantasy;
+    font-size: 80px;
+    color: darkorange;
+}
+.about{
+  padding: 8%;
+  margin-left: 0;
+  margin-right: 0;
+}
+.house14{
+  width: 450px;
+  height: 400px;
+}
+.div1{
+  text-align: left;
+  font-family:helvetica;
+  font-size: 18px;
+  color:#666666;
+  line-height: 2;
+}
+.h1{
+  font-size: 25px;
+  color: black;
+}
+.line{
+  width: 100px;
+  height: 2px;
+  background-color:darkorange;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+.h2{
+  text-align: center;
+}
+.testimonial-image{
+  width: 100%;
+  height: 550px;
+}
+.pic{
+  padding: 5% 7%;
+  text-align: center;
+}
+.testimonial-text{
+  margin-top: 20px;
+  font-size: 20px;
+  color: gray;
+}
+.footer{
+  padding: 2%;
+  background-color: #ededed;
+  margin-top: 30px;
+  color: gray;
+  text-align: center;
+}
+.icons{
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.icons:hover{
+  color: darkorange;
+}
+.olamide{
+  color: inherit;
+}
+.olamide:hover{
+  color: inherit;
+}
+.copyright:hover{
+  color: darkorange;
+}
+@media (max-width: 1028px){
+  .header{
+    text-align: center;
+    height: 75px;
+  }
+  .index1{
+    font-size: 18px;
+  }
+  .house14{
+    width: 400px;
+    height: 400px;
+  }
+}

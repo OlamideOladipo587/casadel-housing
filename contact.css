@@ -1,0 +1,175 @@
+body{
+  margin: 0;
+}
+.backgroundimage
+{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(house8.jpg);
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.header
+{
+    background-color: #29293d;
+    height: 70px;
+    padding-top: 1.5%;
+    color: darkorange;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+}
+.navv{
+  text-align: center;
+  padding: 5%;
+}
+.add{
+  color: darkorange;
+}
+.contact-us{
+  font-family: fantasy;
+  font-size: 100px;
+  color: darkorange;
+  margin-top: 40px;
+}
+.index1
+{
+    color: darkorange;
+    text-decoration: none;
+    font-size: 25px;
+    font-family:serif;
+    padding-right: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    font-family:helvetica;
+}
+.index2{
+  border: 2px solid darkorange;
+}
+.index1:hover
+{
+    color: darkorange;
+    padding: 10px;
+    background-color:#29293d;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.form{
+  background-color: #fff;
+  padding: 7% 8%;
+  margin: 150px 8% 100px;
+
+}
+.div1{
+  text-align: left;
+}
+.text1
+{
+    font-family:helvetica;
+    font-size: 18px;
+    color:#666666;
+}
+.text2
+{
+    font-family:helvetica;
+    font-size: 35px;
+    color:black;
+}
+.text3
+{
+    font-family:helvetica;
+    font-size: 18px;
+    color:#666666;
+}
+.line{
+  width: 100px;
+  height: 2px;
+  background-color:darkorange;
+  margin-bottom: 40px;
+}
+.div2{
+  text-align: right;
+}
+.icons{
+  border: 2px solid #f1f1f1;
+  padding: 10px;
+  border-radius:4px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+.icons:hover{
+  color: darkorange;
+}
+.register_inputs{
+    color: gray;
+    padding: 15px;
+    width: 90%;
+    font-family: helvetica;
+    font-size: 20px;
+    background: transparent;
+    border-radius: 4px;
+    border: transparent;
+    border: 2px solid #f1f1f1;
+    transition: 2s;
+    margin-bottom: 20px;
+}
+.register_inputs:focus{
+    width: 80%;
+}
+.message{
+  width: 90%;
+  height: 200px;
+  font-family:helvetica;
+  font-size: 20px;
+  background: transparent;
+  border-radius: 4px;
+  border: transparent;
+  border: 2px solid #f1f1f1;
+  transition: 2s;
+  margin-bottom: 20px;
+}
+.message_submit{
+  padding: 10px 20px;
+  background-color: #ff974f;
+  font-family:helvetica;
+  border-radius: 4px;
+  border-color: #ff974f;
+  color: #fff;
+}
+.footer{
+  padding: 2%;
+  background-color: #ededed;
+  margin-top: 30px;
+  color: gray;
+}
+.icons1{
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.icons1:hover{
+  color: darkorange;
+}
+.olamide{
+  color: inherit;
+}
+.olamide:hover{
+  color: inherit;
+}
+.copyright:hover{
+  color: darkorange;
+}
+@media (max-width: 1028px){
+  .header{
+    text-align: center;
+  }
+  .div2{
+    text-align: left;
+  }
+  .contact-us{
+    font-size: 70px;
+  }
+  .index1{
+    font-size: 18px;
+  }
+}
