@@ -162,6 +162,7 @@ body{
 @media (max-width: 1028px){
   .header{
     text-align: center;
+    height: 80px;
   }
   .div2{
     text-align: left;
