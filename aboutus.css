@@ -55,6 +55,7 @@ body{
     font-family:fantasy;
     font-size: 80px;
     color: darkorange;
+    margin-top: 30px;
 }
 .about{
   padding: 8%;
@@ -125,7 +126,7 @@ body{
 @media (max-width: 1028px){
   .header{
     text-align: center;
-    height: 85px;
+    height: 80px;
   }
   .index1{
     font-size: 18px;
