@@ -200,7 +200,7 @@ body{
   }
   .pic1
 {
-    width: 250px;
+    width: 245px;
     height: 250px;
 }
 }
@@ -216,5 +216,11 @@ body{
     width: 730px;
     height: 350px;
   } 
+  .phone-pic2{
+    width: 370px;
+  }
+  .section2{
+    text-align: center;
+  }
 }
 
