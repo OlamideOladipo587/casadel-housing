@@ -200,7 +200,7 @@ body{
   }
   .pic1
 {
-    width: 245px;
+    width: 240px;
     height: 250px;
 }
 }
@@ -221,6 +221,25 @@ body{
   }
   .section2{
     text-align: center;
+  }
+  .imm1
+{
+    width: 500px;
+    height: 300px;
+}
+  .imm2
+  {
+    width: 500px;
+    height: 300px;
+  }
+  .text6{
+    font-size: 22px;
+  }
+  .text8{
+    font-size: 22px;
+  }
+  colo2{
+    background-color: #fff;
   }
 }
 
