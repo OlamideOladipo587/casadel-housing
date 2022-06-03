@@ -207,7 +207,7 @@ body{
     font-size: 18px;
   }
 }
-@media (max-width: 900px){
+@media (max-width: 430px){
   .phone-pic1{
     width: 720px;
     height: 450px;
