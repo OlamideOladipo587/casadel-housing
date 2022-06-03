@@ -190,7 +190,7 @@ body{
 .copyright:hover{
   color: darkorange;
 }
-@media (min-width: 1028px){
+@media (min-width: 900px){
   .header{
     text-align: center;
     height: 80px;
@@ -200,7 +200,7 @@ body{
   }
   .pic1
 {
-    width: 250px;
+    width: 270px;
     height: 250px;
 }
 }
@@ -214,6 +214,7 @@ body{
   }
   .phone-pic1{
     width: 750px;
+    height: 350px;
   } 
 }
 
