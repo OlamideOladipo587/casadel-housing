@@ -190,6 +190,20 @@ body{
 .copyright:hover{
   color: darkorange;
 }
+@media (min-width: 1028px){
+  .header{
+    text-align: center;
+    height: 80px;
+  }
+  .index1{
+    font-size: 18px;
+  }
+  .pic1
+{
+    width: 250px;
+    height: 250px;
+}
+}
 @media (max-width: 1028px){
   .header{
     text-align: center;
@@ -198,4 +212,8 @@ body{
   .index1{
     font-size: 18px;
   }
+  .phone-pic1{
+    width: 750px;
+  } 
 }
+
