@@ -190,7 +190,7 @@ body{
 .copyright:hover{
   color: darkorange;
 }
-@media (max-width: 2000px){
+@media (min-width: 1000px){
   .header{
     text-align: center;
     height: 80px;
@@ -204,7 +204,7 @@ body{
     height: 250px;
 }
 }
-@media (max-width: 1028px){
+@media (max-width: 700px){
   .header{
     text-align: center;
     height: 80px;
