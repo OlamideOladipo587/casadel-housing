@@ -196,10 +196,20 @@ body{
     height: 80px;
   }
   .pic1
-{
+  {
     width: 240px;
     height: 250px;
-}
+  }
+  .imm1
+  {
+    width: 200px;
+    height: 200px;
+  }
+.imm2
+  {
+    width: 200px;
+    height: 200px;
+  }
 }
 @media only screen and (min-device-width : 360px) and (max-device-width : 640px){
   .header{
