@@ -190,13 +190,10 @@ body{
 .copyright:hover{
   color: darkorange;
 }
-@media (min-width: 930px){
+@media only screen and (-webkit-min-device-pixel-ratio: 1) and (min-device-width : 768px) and (max-device-width : 1007px) {
   .header{
     text-align: center;
     height: 80px;
-  }
-  .index1{
-    font-size: 18px;
   }
   .pic1
 {
@@ -204,10 +201,10 @@ body{
     height: 250px;
 }
 }
-@media (min-width: 500px){
+@media only screen and (min-device-width : 360px) and (max-device-width : 640px){
   .header{
     text-align: center;
-    height: 80px;
+    height: 85px;
   }
   .index1{
     font-size: 18px;
@@ -233,10 +230,10 @@ body{
     height: 300px;
   }
   .text6{
-    font-size: 22px;
+    font-size: 27px;
   }
   .text8{
-    font-size: 22px;
+    font-size: 27px;
   }
   colo2{
     background-color: #fff;
