@@ -134,10 +134,10 @@ body{
 }
 
 .imm1
-{
+ {
     width: 300px;
     height: 200px;
-}
+ }
 .imm2
 {
     width: 300px;
@@ -220,10 +220,10 @@ body{
     text-align: center;
   }
   .imm1
-{
+  {
     width: 650px;
     height: 400px;
-}
+  }
   .imm2
   {
     width: 650px;
