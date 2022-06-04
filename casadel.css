@@ -221,22 +221,36 @@ body{
   }
   .imm1
 {
-    width: 500px;
-    height: 300px;
+    width: 650px;
+    height: 400px;
 }
   .imm2
   {
-    width: 500px;
-    height: 300px;
+    width: 650px;
+    height: 400px;
+  }
+  .text1
+  {
+    font-size: 30px;
+  }
+  .text3
+  {
+    font-size: 30px;
+  }
+  .text4
+  {
+    font-size: 30px;
   }
   .text6{
-    font-size: 27px;
+    font-size: 30px;
   }
-  .text8{
-    font-size: 27px;
+  .text8
+  {
+    font-size: 30px;
   }
-  colo2{
-    background-color: #fff;
+  colo2
+  {
+    background-color:white;
   }
 }
 
